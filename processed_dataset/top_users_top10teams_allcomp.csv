@@ -1,0 +1,158 @@
+UserId,UserName,DisplayName,RegisterDate,PerformanceTier,Team_Id,CompetitionId,TeamLeaderId,PublicLeaderboardRank,tier_name,isLeader
+54836,titericz,Giba,08/23/2012,4,6145769,22990,698363,1.0,grandmaster,False
+71783,sergeifironov,Sergei Fironov,11/30/2012,4,2274438,10418,837103,4.0,grandmaster,False
+111220,kevinhwang,Kevin Hwang,06/20/2013,3,2261835,10418,417337,3.0,master,False
+113660,hengck23,‎‎‎‎‎‎‎‎,07/11/2013,4,8806840,34547,113660,7.0,grandmaster,True
+207760,igorkrashenyi,Igor Krashenyi,06/12/2014,3,5843694,22990,207760,10.0,master,True
+207760,igorkrashenyi,Igor Krashenyi,06/12/2014,3,8893081,34547,1690820,3.0,master,False
+269744,liaksiejka,Aliaksei Charnevich,12/09/2014,1,2324816,11433,269744,1.0,contributor,True
+317344,onodera,ONODERA,03/24/2015,4,7238845,29653,317344,1.0,grandmaster,True
+349155,sakvaua,DennisSakva,05/08/2015,3,5843694,22990,207760,10.0,master,False
+349155,sakvaua,DennisSakva,05/08/2015,3,8893081,34547,1690820,3.0,master,False
+393246,sasrdw,Russ Wolfinger,07/30/2015,4,2261835,10418,417337,3.0,grandmaster,False
+408648,zaburo,KaizaburoChubachi,08/30/2015,4,6220611,23823,408648,4.0,grandmaster,True
+417337,tunguz,Bojan Tunguz,09/11/2015,4,2261835,10418,417337,3.0,grandmaster,True
+461723,zfturbo,ZFTurbo,11/08/2015,4,6331053,23823,698363,3.0,grandmaster,False
+474194,rafiko1,Rafi Hai,11/25/2015,3,5228026,20604,474194,5.0,master,True
+478989,wowfattie,Guanshuo Xu,12/02/2015,4,2188629,10418,478989,9.0,grandmaster,True
+486218,hadxu123,hadxu,12/13/2015,3,2247423,10418,710784,10.0,master,False
+494641,narsil,narsil,12/28/2015,4,6259172,23823,494641,1.0,grandmaster,True
+499821,kevin0912,kevin:),01/07/2016,2,8900145,34547,499821,9.0,expert,True
+518134,corochann,corochann,02/01/2016,4,6220611,23823,408648,4.0,grandmaster,False
+518185,victorsd,Victor Durnov,02/01/2016,4,8807737,34547,518185,1.0,grandmaster,True
+520183,yoichi7yamakawa,Yiemon773,02/03/2016,3,6220611,23823,408648,4.0,master,False
+520434,grag2015,Ryhor Mikhalap,02/03/2016,1,2325512,11433,520434,4.0,contributor,True
+528105,anniesun,YuqingSun,02/13/2016,0,3160849,14502,528105,10.0,novice,True
+548996,its7171,tito,03/06/2016,4,6259172,23823,494641,1.0,grandmaster,False
+557981,yukimiyazaki,Yuki Miyazaki,03/15/2016,1,7520936,29653,557981,3.0,contributor,True
+577759,lingyundev,lingyundev,04/06/2016,3,2494023,10418,577759,5.0,master,True
+585404,amareelez,Dmitriy Baranov,04/13/2016,1,2324925,11433,585404,8.0,contributor,True
+651378,adityakumarsinha,InnerVoice,06/29/2016,3,8946442,34547,8171978,8.0,master,False
+676963,dimarik,DmitryBuslov,08/01/2016,2,2274438,10418,837103,4.0,expert,False
+683771,notimplemented,Касперович (ШАД-Минск),08/10/2016,0,2484607,11433,683771,9.0,novice,True
+698363,mpware,MPWARE,08/28/2016,4,6145769,22990,698363,1.0,grandmaster,True
+698363,mpware,MPWARE,08/28/2016,4,6331053,23823,698363,3.0,grandmaster,True
+708283,bestfitting,bestfitting,09/07/2016,4,2238150,10418,708283,1.0,grandmaster,True
+708283,bestfitting,bestfitting,09/07/2016,4,6211473,23823,708283,5.0,grandmaster,True
+710784,shisususu,shisu,09/10/2016,2,2247423,10418,710784,10.0,expert,True
+737544,den3b81,den3b,10/03/2016,3,2271196,10418,862519,7.0,master,False
+743064,dmytropoplavskiy,Dmytro Poplavskiy,10/07/2016,4,2261835,10418,417337,3.0,grandmaster,False
+772323,dempton,Konstantin Gavrilchik,10/30/2016,4,2185832,10418,772323,8.0,grandmaster,True
+773885,lenny27,Evgenii Kononenko,10/31/2016,3,2185832,10418,772323,8.0,master,False
+775831,shlyapnik,Anton Seagull Novikau,11/02/2016,1,2363387,11433,775831,5.0,contributor,True
+795565,sgalib,Shai,11/16/2016,4,2261835,10418,417337,3.0,grandmaster,False
+812001,steamedsheep,sheep,11/27/2016,4,6212560,23823,5168115,2.0,grandmaster,False
+836846,gdonchyts,Gena,12/15/2016,2,5879414,22990,836846,6.0,expert,True
+837103,hokmund,Dmytro Panchenko,12/15/2016,2,2274438,10418,837103,4.0,expert,True
+852507,hypocrites,anthony,12/31/2016,3,5335718,20604,852507,3.0,master,True
+856355,lihaoweicvch,lihaowei,01/05/2017,0,2247423,10418,710784,10.0,novice,False
+862519,stecasasso,bluetrain,01/10/2017,3,2271196,10418,862519,7.0,master,True
+874760,ploider,ploider,01/19/2017,2,6329941,22990,874760,5.0,expert,True
+888191,tivfrvqhs5,David Austin,01/29/2017,4,6259172,23823,494641,1.0,grandmaster,False
+929585,plarmuseau,Paul Larmuseau,02/25/2017,2,6620782,27177,929585,1.0,expert,True
+939031,anastasiyasad,"Садовая Анастасия (ШАД, Минск)",03/02/2017,0,2434788,11433,939031,7.0,novice,True
+946778,nbanic,Nikola,03/07/2017,0,6293470,23823,6674022,6.0,novice,False
+968864,imakarov,Ilya Makarov,03/15/2017,3,6212560,23823,5168115,2.0,master,False
+998934,osciiart,OsciiArt,03/31/2017,3,7520936,29653,557981,3.0,master,False
+1034690,thundo,Thundo,04/20/2017,2,2185832,10418,772323,8.0,expert,False
+1060408,tianyiy,TY.Yang,05/06/2017,2,5232660,20604,1060408,1.0,expert,True
+1073186,areveillon,Antoine,05/13/2017,3,2271196,10418,862519,7.0,master,False
+1075661,alexkirnas,Alexander Zarichkovyi,05/15/2017,3,8893081,34547,1690820,3.0,master,False
+1088337,mortido,Alexander Kiselev,05/23/2017,1,2274438,10418,837103,4.0,contributor,False
+1089347,arnaurm,FlYM,05/23/2017,2,2220101,10418,1089347,2.0,expert,True
+1189059,felipebihaiek,Felipe Bivort Haiek,07/27/2017,2,6214658,23823,3489134,7.0,expert,False
+1192238,action,qrfaction,07/30/2017,4,2247423,10418,710784,10.0,grandmaster,False
+1201725,akiraishikawa,AkiraIshikawa,08/05/2017,2,5329388,20604,1201725,7.0,expert,True
+1270655,garybios,Gary,09/16/2017,4,2247423,10418,710784,10.0,grandmaster,False
+1285323,sarahnorth,Sarah,09/23/2017,0,3165641,14502,1285323,4.0,novice,True
+1328185,thedrcat,Darek Kłeczek,10/11/2017,3,6214658,23823,3489134,7.0,master,False
+1348567,ulrich07,Ulrich G.,10/20/2017,3,7096709,29653,1348567,7.0,master,True
+1424766,christofhenkel,Dieter,11/17/2017,4,2261835,10418,417337,3.0,grandmaster,False
+1424766,christofhenkel,Dieter,11/17/2017,4,6331053,23823,698363,3.0,grandmaster,False
+1440087,phamvanlinh143,Pham Van Linh,11/23/2017,3,8993571,34547,9250575,2.0,master,False
+1454111,coreacasa,Manuel Campos,11/28/2017,3,6480305,22990,1454111,9.0,master,True
+1498792,farbodj,Farbod Jahandar,12/15/2017,1,5233960,20604,1498792,8.0,contributor,True
+1504864,bloodaxe,Eugene Khvedchenya,12/19/2017,4,5843694,22990,207760,10.0,grandmaster,False
+1508597,saeedgh,Saeed Ghoorchian,12/21/2017,0,5233960,20604,1498792,8.0,novice,False
+1520584,fatanema,Fatane Mobasheramini,12/29/2017,0,5233960,20604,1498792,8.0,novice,False
+1603890,chizhu2018,chizhu,02/02/2018,3,2247423,10418,710784,10.0,master,False
+1636313,dschettler8845,Darien Schettler,02/14/2018,4,6214658,23823,3489134,7.0,grandmaster,False
+1666722,stellos,Vitaly,02/25/2018,0,2413555,11433,1666722,2.0,novice,True
+1670024,yukkyo,fam_taro,02/26/2018,3,5839750,22990,1670024,4.0,master,True
+1676606,serenkov,Борис Серенков (ШАД-Минск),02/28/2018,0,2392004,11433,1676606,10.0,novice,True
+1690820,vladimirsydor,Volodymyr,03/05/2018,4,8893081,34547,1690820,3.0,grandmaster,True
+1692219,yakubanna,Hanna Yakubovich,03/05/2018,0,2438866,11433,1692219,3.0,novice,True
+1718514,moximo13,Tanyapohn,03/13/2018,1,5240737,20604,1738095,10.0,contributor,False
+1723677,cdeotte,Chris Deotte,03/14/2018,4,6630333,22990,1723677,3.0,grandmaster,True
+1735447,crabapple,xie,03/19/2018,3,2494023,10418,577759,5.0,master,False
+1738095,khoongweihao,Wei Hao Khoong,03/20/2018,4,5240737,20604,1738095,10.0,grandmaster,True
+1760696,vostankovich,Vladislav Ostankovich,03/26/2018,3,6212560,23823,5168115,2.0,master,False
+1809120,yingpengchen,Roc,04/11/2018,3,8807628,34547,2909490,6.0,master,False
+2186594,lanjunyelan,yelan,08/28/2018,4,2258358,10418,2186594,6.0,grandmaster,True
+2226463,aspire5,huihui,09/09/2018,0,6331953,22990,6774718,8.0,novice,False
+2261472,jaggmm,君莫笑,09/18/2018,1,6331953,22990,6774718,8.0,contributor,False
+2292090,lukesagers,Luke Sagers,09/26/2018,0,6716400,27290,2292090,2.0,novice,True
+2293425,qtakka,Q_takka,09/27/2018,3,8928461,34547,2293425,5.0,master,True
+2394916,silversh,Zihan Wu,10/23/2018,1,6224211,23823,2394916,10.0,contributor,True
+2509784,chenjoya,ChenJoya,11/18/2018,0,2247423,10418,710784,10.0,novice,False
+2538426,ydq258,12138,11/25/2018,0,3151830,14502,2538426,1.0,novice,True
+2590979,worthscore,Each submission matters,12/07/2018,0,2500576,11433,2590979,6.0,novice,True
+2859685,lavreniuk,Mykola Lavreniuk,02/25/2019,2,6362947,22990,5467186,2.0,expert,False
+2882245,violag12,violag12,03/01/2019,0,3151801,14502,2882245,2.0,novice,True
+2909490,carnozhao,Carno Zhao,03/07/2019,3,8807628,34547,2909490,6.0,master,True
+3108186,jamesphoward,James Howard,04/18/2019,3,8817279,34547,3108186,10.0,master,True
+3112932,am2384,Adeel,04/19/2019,0,3151818,14502,3112932,6.0,novice,True
+3117004,mb2372,mb2372,04/20/2019,0,3165872,14502,3117004,5.0,novice,True
+3133516,charmq,charmq,04/24/2019,4,6220611,23823,408648,4.0,grandmaster,False
+3210041,md848cornell,Mike DiDomenico,05/11/2019,0,3153622,14502,3210041,9.0,novice,True
+3211098,clobridge,Patrick Clobridge,05/11/2019,0,3154533,14502,3211098,7.0,novice,True
+3211138,rpellumbi,Rami Pellumbi,05/11/2019,0,3154528,14502,3211138,8.0,novice,True
+3218559,tjhurd,Jeffrey (TJ) Hurd,05/13/2019,0,3160992,14502,3218559,3.0,novice,True
+3315413,jesusruiz1,JesusRuiz1,06/05/2019,0,5285027,20604,3315413,4.0,novice,True
+3423661,shummi39,Shummi Ahmed,07/03/2019,1,7094394,29653,3423661,8.0,contributor,True
+3460291,yujiariyasu,YujiAriyasu,07/14/2019,4,6211199,23823,3460291,9.0,grandmaster,True
+3474172,reighns,Hongnan G,07/17/2019,3,5240737,20604,1738095,10.0,master,False
+3489134,scusywxy,scumed,07/21/2019,3,6214658,23823,3489134,7.0,master,True
+3647900,ajaykumar7778,AjayKumar,08/31/2019,2,5240737,20604,1738095,10.0,expert,False
+3703174,seraphimstreets,seraphimstreets,09/13/2019,1,5240737,20604,1738095,10.0,contributor,False
+3902072,dotmphage,S-inokuchi,10/22/2019,1,5320124,20604,3902072,6.0,contributor,True
+3974868,wrrosa,Wojtek Rosa,11/04/2019,3,5856652,22990,3974868,7.0,master,True
+4075014,shangshangwang,SHANGSHANG WANG,11/21/2019,0,6698908,27290,4075014,6.0,novice,True
+4773478,hannwen,hann wen,03/30/2020,0,6331953,22990,6774718,8.0,novice,False
+4815552,mirosiakoval,mirosia koval,04/05/2020,2,7166813,29653,4815552,10.0,expert,True
+4862335,rapisu0,蘇侑晨SuYuChen,04/12/2020,2,5328415,20604,4862335,2.0,expert,True
+5168115,underwearfitting,sin,05/26/2020,4,6212560,23823,5168115,2.0,grandmaster,True
+5416905,jswolf,jswolf,07/05/2020,0,6331953,22990,6774718,8.0,novice,False
+5467186,tom88jerry,tom88jerry,07/14/2020,2,6362947,22990,5467186,2.0,expert,True
+5496647,nowandddfuture,nowandddfuture,07/20/2020,0,9015880,34547,9820727,4.0,novice,False
+5645180,danieljst,Daniel Tan,08/19/2020,0,6680843,27290,5645180,7.0,novice,True
+5655251,hellozq,hellozq,08/21/2020,2,5419306,20604,5655251,9.0,expert,True
+6164263,paulbcdg,PaulBCDG,11/15/2020,0,6721190,27290,6164263,5.0,novice,True
+6234189,zzhgogogo,zzh__98,11/24/2020,0,9015880,34547,9820727,4.0,novice,False
+6301891,zhangshijia,Zhang Shijia,12/03/2020,0,6704888,27290,6301891,8.0,novice,True
+6348064,zehuigong,ZehuiGong,12/09/2020,2,6214658,23823,3489134,7.0,expert,False
+6513066,masatakaaoki,Masataka Aoki,01/13/2021,2,7138097,29653,6513066,6.0,expert,True
+6610329,rongboshen,rongbo shen,01/28/2021,0,6224211,23823,2394916,10.0,novice,False
+6674022,crodoc,CroDoc,02/06/2021,3,6293470,23823,6674022,6.0,master,True
+6691530,kensjourney,KensJourney,02/09/2021,1,7094579,29653,6833940,4.0,contributor,False
+6774718,rongyumeng,Little Pig,02/21/2021,1,6331953,22990,6774718,8.0,contributor,True
+6833940,clarksaben,arelius,03/01/2021,2,7094579,29653,6833940,4.0,expert,True
+6942107,jianguoguo,Xiaoting Guo,03/15/2021,0,6224211,23823,2394916,10.0,novice,False
+7087459,cromed,CroMED,04/02/2021,0,6293470,23823,6674022,6.0,novice,False
+7093928,croqueen,CroQueen,04/03/2021,0,6293470,23823,6674022,6.0,novice,False
+7119284,zacharystrasser,Zachary Strasser,04/06/2021,0,6675834,27290,7119284,4.0,novice,True
+7187497,kelseyluuu,Kelsey Luu,04/14/2021,0,6710333,27290,7187497,9.0,novice,True
+7208491,sungantai,Sung An Tai,04/17/2021,0,6703386,27290,7208491,10.0,novice,True
+7226105,jiayechen,Jiaye Chen,04/20/2021,0,6700692,27290,7226105,1.0,novice,True
+7265968,csnocturne,Peter Hong,04/24/2021,0,6689431,27290,7265968,3.0,novice,True
+7322666,tcmedai,TCMEDAI,05/02/2021,0,6732001,23823,7322666,8.0,novice,True
+7330849,paptermint,paptermint,05/03/2021,0,6732001,23823,7322666,8.0,novice,False
+8171978,chenxupeng,Chainey,08/19/2021,1,8946442,34547,8171978,8.0,contributor,True
+8231070,yifffff12,yifffff12,08/28/2021,0,7350049,29653,8231070,9.0,novice,True
+8243164,pegggggggggg,pegggggggggg,08/30/2021,0,7357898,29653,8243164,2.0,novice,True
+8440173,hsrobin,HSROBIN,09/26/2021,1,7467626,29653,8440173,5.0,contributor,True
+8944382,yufuzju,YuFu_zju,11/20/2021,0,9015880,34547,9820727,4.0,novice,False
+9250575,qdv206,qdv206,12/25/2021,3,8993571,34547,9250575,2.0,master,True
+9820727,rock139,Rock,03/03/2022,2,9015880,34547,9820727,4.0,expert,True
+11153121,nwzzzz,nw zzzz,07/27/2022,0,8946442,34547,8171978,8.0,novice,False
+11300554,archeve,Archeve,08/15/2022,2,9015880,34547,9820727,4.0,expert,False
