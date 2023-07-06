@@ -1,0 +1,17 @@
+Id,CompetitionId,TagId,ParentTagId,Name,Slug,FullPath,Description,DatasetCount,CompetitionCount,KernelCount
+429,10418,13302,16673,classification,classification,task > classification,,3223,6,16741
+428,10418,14102,14100,image,image-data,data type > image,,5059,176,4841
+694,20604,4202,11111,healthcare,healthcare,subject > health and fitness > health > healthcare,"AI in healthcare is a growing interest. One of the major problems is simply converting research into an application. Should be easy, right?",1157,9,1353
+693,20604,14102,14100,image,image-data,data type > image,,5059,176,4841
+748,22990,7100,7000,biology,biology,subject > earth and nature > biology,"Explore datasets and kernels about gene expressions, transcriptomics, and even the works of Charles Darwin.",5974,11,4518
+743,22990,11111,4000,health,health,subject > health and fitness > health,Consider the health tag your data science gym. Get in there and work out those data science muscles on health analytics. Analyze heart disease until you sweat. Then recover with with a nice candy production dataset.,8162,5,7514
+742,22990,14102,14100,image,image-data,data type > image,,5059,176,4841
+772,23823,14102,14100,image,image-data,data type > image,,5059,176,4841
+773,23823,14202,13302,multiclass classification,multiclass-classification,technique > classification > multiclass classification,,885,107,3028
+774,23823,16636,16673,multilabel classification,multilabel-classification,task > multilabel-classification,,163,4,573
+847,29653,4202,11111,healthcare,healthcare,subject > health and fitness > health > healthcare,"AI in healthcare is a growing interest. One of the major problems is simply converting research into an application. Should be easy, right?",1157,9,1353
+845,29653,14102,14100,image,image-data,data type > image,,5059,176,4841
+846,29653,14201,16673,binary classification,binary-classification,task > binary-classification,,745,3858,5468
+981,34547,7100,7000,biology,biology,subject > earth and nature > biology,"Explore datasets and kernels about gene expressions, transcriptomics, and even the works of Charles Darwin.",5974,11,4518
+1022,34547,13207,13200,computer vision,image-processing,technique > computer vision,"Teaching a machine to interpret real-world images and videos. Applications include detecting objects, capturing motion, and restoring images.",2316,17,3925
+980,34547,14102,14100,image,image-data,data type > image,,5059,176,4841
